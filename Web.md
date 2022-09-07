@@ -7,8 +7,6 @@
 - #### 슬라이더
   - [**swiper.js**](https://swiperjs.com/)
   - [**slick.js**](https://kenwheeler.github.io/slick/)
-
-[이거왜새창이안될까](https://swiperjs.com/){: target="_blank"}
   
 ### 마크다운
  - #### 편집기
